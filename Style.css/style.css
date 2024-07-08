@@ -375,14 +375,14 @@ span {
 .portfolio-section {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
 }
 
 .ps-contect-text {
+  width: 1320px;
   padding-bottom: 48px;
   text-align: left;
-  margin-left: -450px;
 }
 .ps-contect-text > h5 {
   color: rgb(255, 0, 0);
